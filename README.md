@@ -14,19 +14,23 @@
 
 <table style="border:none">
 <tr style="border:none;background-color:none">
- <td style="border:none;background-color:none"><img src="./assets/images/the_bar.jpg"/></td>
+ <td style="border:none;background-color:none" width="60%"><img src="./assets/images/the_bar.jpg"/></td>
    <td align="center" style="border:none;background-color:none">
-    **The Bar**
-    <p style="font-size:16px">Características:<br>- Html, CSS y Vanilla Javascript <br>- Responsive, Mobile first</p>
+    The Bar
+    <br><br>
+    Características:<br>- Html, CSS y Vanilla Javascript <br>- Responsive, Mobile first
+    <br><br>
     <a href="https://entrega-final-js-coderhouse.netlify.app/">Link al proyecto</a><br><a href="https://github.com/MariaSoledadHiga/javascript-entrega-final">Link al repositorio</a>
   </td>
 </tr>
 <tr style="border:none;background-color:none">
- <td style="border:none;background-color:none"><img  src="./assets/images/just_cupcakes.jpg"/></td>
+ <td style="border:none;background-color:none" width="60%"><img  src="./assets/images/just_cupcakes.jpg"/></td>
 
   <td align="center" style="border:none;background-color:none">
-    **Just Cupcakes**
-    <p style="font-size:16px">Características:<br>- React JS web App <br>- Firebase </p>
+    Just Cupcakes
+    <br><br>
+    Características:<br>- React JS web App <br>- Firebase
+    <br><br>
     <a href="https://entrega-final-react-js-coderhouse.netlify.app/">Link al proyecto</a><br><a href="https://github.com/MariaSoledadHiga/react-js-entrega-final">Link al repositorio</a>
   </td>
 </tr>
