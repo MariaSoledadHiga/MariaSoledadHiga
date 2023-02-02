@@ -1,10 +1,8 @@
 <div align="center">
 
-<p style="font-size:30px"> ¡Hola! 👋 Soy María Soledad Higa </p>
+# ¡Hola! 👋 Soy María Soledad Higa
 
-<br>
-
-<p style="font-size:25px" >  Front-end developer </p>
+### Front-end developer
 
 <p>Disfruto los desafíos y crear cosas. Tengo una curiosidad que me lleva a estar aprendiendo constantemente.</p>
 
@@ -12,26 +10,24 @@
 
 <hr  width="100%"/>
 
+### Proyectos
+
 <table style="border:none">
-<tr>
-<tdstyle="border:none">  <p style="font-size:25px" >  Mis Proyectos </p>
-</td>
-</tr>
 <tr style="border:none;background-color:none">
  <td style="border:none;background-color:none"><img src="./assets/images/the_bar.jpg"/></td>
    <td align="center" style="border:none;background-color:none">
-    <p style="font-size:20px;font-weight:500">The Bar</p>
+    **The Bar**
     <p style="font-size:16px">Características:<br>- Html, CSS y Vanilla Javascript <br>- Responsive, Mobile first</p>
-    <a href="https://entrega-final-js-coderhouse.netlify.app/">Link al proyecto</a> | <a href="https://github.com/MariaSoledadHiga/javascript-entrega-final">Link al repositorio</a>
+    <a href="https://entrega-final-js-coderhouse.netlify.app/">Link al proyecto</a><br><a href="https://github.com/MariaSoledadHiga/javascript-entrega-final">Link al repositorio</a>
   </td>
 </tr>
 <tr style="border:none;background-color:none">
  <td style="border:none;background-color:none"><img  src="./assets/images/just_cupcakes.jpg"/></td>
 
   <td align="center" style="border:none;background-color:none">
-    <p style="font-size:20px;font-weight:500">Just Cupcakes</p>
+    **Just Cupcakes**
     <p style="font-size:16px">Características:<br>- React JS web App <br>- Firebase </p>
-    <a href="https://entrega-final-react-js-coderhouse.netlify.app/">Link al proyecto</a> | <a href="https://github.com/MariaSoledadHiga/react-js-entrega-final">Link al repositorio</a>
+    <a href="https://entrega-final-react-js-coderhouse.netlify.app/">Link al proyecto</a><br><a href="https://github.com/MariaSoledadHiga/react-js-entrega-final">Link al repositorio</a>
   </td>
 </tr>
 </table>
