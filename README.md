@@ -41,6 +41,6 @@
 
 <hr  width="100%"/>
 <div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
