@@ -2,11 +2,14 @@
 
 # ¡Hola! 👋 Soy María Soledad Higa
 
-### Front-end developer
+## Front-end developer
 
 <p>Disfruto los desafíos y crear cosas. Tengo una curiosidad que me lleva a estar aprendiendo constantemente.</p>
 
-<p>Contactame: <a alt="Mi Linkedin" href="https://www.linkedin.com/in/maria-soledad-higa/">Mi Linkedin</a></p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<p> Contactame <br>
+<a href="https://linkedin.com/in/maria-soledad-higa"> <img height="23px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></p>
 
 <hr  width="100%"/>
 
@@ -37,5 +40,7 @@
 </table>
 
 <hr  width="100%"/>
-
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&show_icons=true&theme=radical" /> <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&layout=compact" />
+<div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
