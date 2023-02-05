@@ -6,7 +6,7 @@
 
 <p>Disfruto los desafíos y crear cosas. Tengo una curiosidad que me lleva a estar aprendiendo constantemente.</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![git](https://img.shields.io/badge/git-%233E2C00.svg?style=for-the-badge&logo=git&logoColor=%23F1502F)
 
 <p> Contactame <br>
 <a href="https://linkedin.com/in/maria-soledad-higa"> <img height="23px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></p>
@@ -41,6 +41,6 @@
 
 <hr  width="100%"/>
 <div>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSoledadHiga&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
