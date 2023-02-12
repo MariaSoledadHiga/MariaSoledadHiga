@@ -32,7 +32,7 @@
   <td align="center" style="border:none;background-color:none">
     Just Cupcakes
     <br><br>
-    Características:<br>- React JS web App <br>- Firebase
+    Características:<br>- React JS web App <br>- Firebase <br> - Responsive, Mobile first
     <br><br>
     <a href="https://entrega-final-react-js-coderhouse.netlify.app/">Link al proyecto</a><br><a href="https://github.com/MariaSoledadHiga/react-js-entrega-final">Link al repositorio</a>
   </td>
